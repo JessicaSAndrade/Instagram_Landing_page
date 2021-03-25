@@ -1,5 +1,3 @@
-# instagram-landing-page
-
 <h3><b>INSTAGRAM LANDING PAGE</b></h3>
 
 Projeto feito em conjunto com o bootcamp de Angular avançado proposto pela Digital Innovation One.
